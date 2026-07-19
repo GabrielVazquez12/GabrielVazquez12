@@ -24,38 +24,38 @@ I am Carlos Vázquez, a Systems Engineering student focused on backend developme
 <br>
 
 ---
-💻 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/computer_face.gif" width="30px"> Tech Stack [Status: Version_Current]
+## 💻 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/computer_face.gif" width="30px"> Tech Stack [Status: Version_Current]
 
-Languages
+### Languages
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,python,js,go,cpp&perline=6" alt="Languages" />
   </a>
 </p>
-Backend
 
+### Backend
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=fastapi,nodejs&perline=6" alt="Backend" />
   </a>
 </p>
-Frontend
 
+### Frontend
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,flutter,html,css&perline=6" alt="Frontend" />
   </a>
 </p>
-Databases
 
+### Databases
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,mariadb,sqlite&perline=6" alt="Databases" />
   </a>
 </p>
-DevOps & Tools
 
+### DevOps & Tools
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux,vscode,bash&perline=6" alt="DevOps and Tools" />
