@@ -1,6 +1,6 @@
 <!-- DYNAMIC HEADER -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=500&color=F7F7F7&background=00000000&center=true&vCenter=true&width=700&lines=Gabriel+Vazquez;Software+Engineering+Student;>+echo+'Linux+%26+Virtualization+Enthusiast';$sudo_systemctl_status_developer;[STATUS:%20PASSIONATE_GAMER]" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=500&color=F7F7F7&background=00000000&center=true&vCenter=true&width=700&lines=Carlos+Vazquez;Software+Engineering+Student;>+echo+'Linux+%26+Virtualization+Enthusiast';$sudo_systemctl_status_developer;[STATUS:%20PASSIONATE_GAMER]" alt="Typing SVG" />
 </div>
 
 <br>
@@ -17,19 +17,24 @@ I am Carlos Vázquez, a Systems Engineering student focused on backend developme
 
 `$USER = developer` | `OS = Continuous_Learning`
 
-<br>
+---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Micael_Calixto/Micael_Calixto/main/capa.gif" width="400px" alt="Gamer Dev Animation" />
-</div>
+## ⚙️ My Dev Workflow [Status: Optimized]
+A developer is only as fast as their tools. My daily driver is a keyboard-centric, highly customized Linux setup designed for maximum productivity:
+
+*   **Window Manager:** Hyprland (Wayland tiling manager for lightning-fast navigation)
+*   **Terminal Emulator:** Kitty (GPU-accelerated)
+*   **Customization:** I maintain my own dotfiles for a seamless, automated development environment.
 
 ---
 
-## 🛠️ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/gear.gif" width="30px"> Core Skills [Status: In_Progress]
+## 💻 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/computer_face.gif" width="30px"> Tech Stack [Status: Version_Current]
 
-*   🗄️ **Databases & Architecture:** Designing and optimizing efficient queries using MariaDB and MySQL.
-*   ☕ **Java Development:** Building robust, scalable applications with secure authentication and session management.
-*   🌐 **Virtualization & SysAdmin:** Managing isolated environments and network simulations via VirtualBox, Packet Tracer, and Linux (Hyprland/Fedora).
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,js,html,css,php,mysql,linux,git,github,vscode,bash&perline=6" alt="My Skills" />
+  </a>
+</p>
 
 ---
 
@@ -40,64 +45,42 @@ I am Carlos Vázquez, a Systems Engineering student focused on backend developme
 *   [**Portafolio Ciber**](https://github.com/GabrielVazquez12/Portafolio_Ciber): Cybersecurity labs and practices.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielVazquez12&repo=Homevisor&theme=dark" alt="Homevisor Repo Card" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielVazquez12&repo=Proyecto-Analizador-lexico&theme=dark" alt="Analizador-lexico Repo Card" />
+  <!-- Tema Tokyo Night aplicado para un look limpio y profesional -->
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielVazquez12&repo=Homevisor&theme=tokyonight" alt="Homevisor Repo Card" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielVazquez12&repo=Proyecto-Analizador-lexico&theme=tokyonight" alt="Analizador-lexico Repo Card" />
 </div>
 
 ---
 
-## 💻 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/computer_face.gif" width="30px"> Tech Stack [Status: Version_Current]
+## ⏱️ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/stopwatch.gif" width="30px"> Code Metrics (WakaTime)
 
-### Languages
-| Language | Tool |
-| :--- | :--- |
-| <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> |
-| <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> | <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> | |
-
-### Databases
-| DB | Engine |
-| :--- | :--- |
-| <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> | <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" /> |
-
-### Tools & DevOps
-| Tool | Environment |
-| :--- | :--- |
-| <img src="https://img.shields.io/badge/VirtualBox-214292?style=for-the-badge&logo=virtualbox&logoColor=white" /> | <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> | <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> |
+<div align="center">
+  <a href="https://wakatime.com">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=GabrielVazquez12&layout=compact&theme=tokyonight" alt="Wakatime Stats" />
+  </a>
+</div>
 
 ---
 
-## 📊 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/line_chart.gif" width="30px"> GitHub Stats [Status: Fetching_Data...]
+## 📊 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/line_chart.gif" width="30px"> GitHub Stats & Contributions
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielVazquez12&show_icons=true&theme=dark" alt="GitHub Stats GabrielVazquez12" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielVazquez12&theme=dark" alt="GitHub Streak GabrielVazquez12" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielVazquez12&show_icons=true&theme=tokyonight" alt="GitHub Stats GabrielVazquez12" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielVazquez12&theme=tokyonight" alt="GitHub Streak GabrielVazquez12" />
 </div>
 
 <br>
 
+### 🐍 Commit History [Status: Leveling Up]
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielVazquez12&layout=compact&theme=dark" alt="GabrielVazquez12 Top Langs" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielVazquez12/GabrielVazquez12/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielVazquez12/GabrielVazquez12/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabrielVazquez12/GabrielVazquez12/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
-
-## 🎯 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/trophy.gif" width="30px"> Goals & Interests
-
-My goal is to combine technology and video games to build innovative projects. I view gaming not just as entertainment, but as a framework for understanding system design, interactive experiences, and resource optimization.
-
----
-
-## 📜 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/parchment.gif" width="30px"> Terminal Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20don't%20comment%20on%20the%20code%20itself%20because%20I%20feel%20that%20properly%20written%20code%20is%20very%20much%20self-documented.%20-%20Gary%20Kildall" alt="Random Dev Quote" />
-</div>
-
-<br>
-<hr>
 
 <p align="center">
   <code>GabrielVazquez12 / $SYSTEM_STUDENT / (Status: Actively seeking internships/residencies)</code><br>
