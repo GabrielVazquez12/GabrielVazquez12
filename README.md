@@ -17,24 +17,51 @@ I am Carlos Vázquez, a Systems Engineering student focused on backend developme
 
 `$USER = developer` | `OS = Continuous_Learning`
 
+<p align="center">
+  <img src="https://img.shields.io/badge/status-open_to_internships-success?style=for-the-badge" alt="Open to internships" />
+</p>
+<br>
+<br>
 ---
 
-## ⚙️ My Dev Workflow [Status: Optimized]
-A developer is only as fast as their tools. My daily driver is a keyboard-centric, highly customized Linux setup designed for maximum productivity:
+💻 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/computer_face.gif" width="30px"> Tech Stack [Status: Version_Current]
 
-*   **Window Manager:** Hyprland (Wayland tiling manager for lightning-fast navigation)
-*   **Terminal Emulator:** Kitty (GPU-accelerated)
-*   **Customization:** I maintain my own dotfiles for a seamless, automated development environment.
-
----
-
-## 💻 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/computer_face.gif" width="30px"> Tech Stack [Status: Version_Current]
+Languages
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,js,html,css,php,mysql,linux,git,github,vscode,bash&perline=6" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=java,python,js,go,cpp&perline=6" alt="Languages" />
   </a>
 </p>
+Backend
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=fastapi,nodejs&perline=6" alt="Backend" />
+  </a>
+</p>
+Frontend
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,flutter,html,css&perline=6" alt="Frontend" />
+  </a>
+</p>
+Databases
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mariadb,sqlite&perline=6" alt="Databases" />
+  </a>
+</p>
+DevOps & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux,vscode,bash&perline=6" alt="DevOps and Tools" />
+  </a>
+</p>
+<br>
 
 ---
 
@@ -76,6 +103,18 @@ A developer is only as fast as their tools. My daily driver is a keyboard-centri
 
 ---
 
+📫 Contact
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/carlos-gabriel-vazquez-032a9441b/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:carlosgvazquez1202@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
+</p>
+<br>
 <p align="center">
   <code>GabrielVazquez12 / $SYSTEM_STUDENT / (Status: Actively seeking internships/residencies)</code><br>
   <code>Last updated: July 2026</code>
