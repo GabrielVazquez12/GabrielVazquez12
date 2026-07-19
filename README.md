@@ -22,6 +22,7 @@ I am Carlos Vázquez, a Systems Engineering student focused on backend developme
 </p>
 <br>
 <br>
+
 ---
 
 💻 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/computer_face.gif" width="30px"> Tech Stack [Status: Version_Current]
@@ -102,19 +103,6 @@ DevOps & Tools
 </div>
 
 ---
-
-📫 Contact
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/carlos-gabriel-vazquez-032a9441b/">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:carlosgvazquez1202@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
-  </a>
-</p>
-<br>
 <p align="center">
   <code>GabrielVazquez12 / $SYSTEM_STUDENT / (Status: Actively seeking internships/residencies)</code><br>
   <code>Last updated: July 2026</code>
