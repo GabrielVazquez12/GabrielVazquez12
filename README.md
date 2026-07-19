@@ -79,5 +79,5 @@ A developer is only as fast as their tools. My daily driver is a keyboard-centri
 
 <p align="center">
   <code>GabrielVazquez12 / $SYSTEM_STUDENT / (Status: Actively seeking internships/residencies)</code><br>
-  <code>Last updated: $(date +'%Y-%m-%d %H:%M:%S') (Automated by GitHub Actions)</code>
+  <code>Last updated: July 2026</code>
 </p>
