@@ -64,10 +64,9 @@ A developer is only as fast as their tools. My daily driver is a keyboard-centri
 ## 📊 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/line_chart.gif" width="30px"> GitHub Stats & Contributions
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielVazquez12&show_icons=true&theme=tokyonight&v=1" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/GabrielVazquez12/GabrielVazquez12/main/github-metrics.svg" alt="GitHub Metrics" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielVazquez12&theme=tokyonight" alt="GitHub Streak" />
 </div>
-
 <br>
 
 ### 🐍 Commit History [Status: Leveling Up]
