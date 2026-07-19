@@ -1,0 +1,24 @@
+name: GitHub Metrics
+on:
+  # Se ejecuta automáticamente todos los días a la medianoche
+  schedule: [{cron: "0 0 * * *"}]
+  # Permite correrlo manualmente desde la pestaña Actions
+  workflow_dispatch:
+  # Se ejecuta cada vez que subes un cambio a la rama principal
+  push: {branches: ["main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: GabrielVazquez12
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: America/Monterrey
+          theme: tokyonight
+          plugin_languages: yes
+          plugin_languages_limit: 8
