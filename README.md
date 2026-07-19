@@ -1,6 +1,6 @@
 <!-- DYNAMIC HEADER -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=500&color=F7F7F7&background=00000000&center=true&vCenter=true&width=700&lines=Carlos+Vazquez;Software+Engineering+Student;>+echo+'Linux+%26+Virtualization+Enthusiast';$sudo_systemctl_status_developer;[STATUS:%20PASSIONATE_GAMER]" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=500&color=F7F7F7&background=00000000&center=true&vCenter=true&width=700&lines=Gabriel+Vazquez;Software+Engineering+Student;>+echo+'Linux+%26+Virtualization+Enthusiast';$sudo_systemctl_status_developer;[STATUS:%20PASSIONATE_GAMER]" alt="Typing SVG" />
 </div>
 
 <br>
@@ -45,7 +45,6 @@ A developer is only as fast as their tools. My daily driver is a keyboard-centri
 *   [**Portafolio Ciber**](https://github.com/GabrielVazquez12/Portafolio_Ciber): Cybersecurity labs and practices.
 
 <div align="center">
-  <!-- Tema Tokyo Night aplicado para un look limpio y profesional -->
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielVazquez12&repo=Homevisor&theme=tokyonight" alt="Homevisor Repo Card" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielVazquez12&repo=Proyecto-Analizador-lexico&theme=tokyonight" alt="Analizador-lexico Repo Card" />
 </div>
@@ -73,11 +72,7 @@ A developer is only as fast as their tools. My daily driver is a keyboard-centri
 
 ### 🐍 Commit History [Status: Leveling Up]
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielVazquez12/GabrielVazquez12/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielVazquez12/GabrielVazquez12/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabrielVazquez12/GabrielVazquez12/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/GabrielVazquez12/GabrielVazquez12/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 ---
