@@ -24,7 +24,6 @@ I am Carlos Vázquez, a Systems Engineering student focused on backend developme
 <br>
 
 ---
-
 💻 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/computer_face.gif" width="30px"> Tech Stack [Status: Version_Current]
 
 Languages
